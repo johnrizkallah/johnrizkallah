@@ -1,16 +1,24 @@
-## Hi there 👋
+# John Rizkallah
 
-<!--
-**johnrizkallah/johnrizkallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineer with an MSc in Mechatronics and Robotics from Politecnico di Milano.
 
-Here are some ideas to get you started:
+I work at the intersection of mechanical design, robotics, automation, and autonomous systems. My experience includes robotic product development, mechatronic module integration, prototyping, testing, and autonomous-vehicle path planning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical interests
+
+- Robotics and autonomous navigation
+- Mechatronic system integration
+- Control systems and dynamic path planning
+- ROS, C++, Python, and MATLAB
+- Mechanical design, prototyping, and validation
+
+## Featured work
+
+- Autonomous Delivery Vehicle Path Planning
+- Robotic beverage-system module development
+- Human–Machine Interface projects
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/johnmrizkallah)
+- [GitHub](https://github.com/johnrizkallah)
